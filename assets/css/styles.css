@@ -1,0 +1,32 @@
+html {
+	font-family: sans-serif;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	flex-direction: col;
+}
+
+body {
+	background-color: #F1F2E6;
+	margin: 0;
+}
+
+.site-header {
+	background-color: #05668D;
+	color: #F4F6F0;
+	padding: 2rem 3rem 2rem 3rem;
+}
+
+.site-header h1 {
+	margin: 0;
+	text-align: left;
+}
+
+.content {
+	width: 80%;
+	margin: 0 auto;
+	background-color: #00A896;
+	color: #F4F6F0;
+	padding: 1rem;
+	margin: 0.5rem auto;
+}
+
